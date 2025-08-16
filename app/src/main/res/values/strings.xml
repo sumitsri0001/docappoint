@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Easy Health</string>
+    <string name="title_activity_patein_login">PateinLogin</string>
+    <string name="title_activity_doctor_login">DoctorLogin</string>
+    <string name="title_activity_patient_dashboard">PatientDashboard</string>
+    <string name="title_activity_doctor_dashboard">DoctorDashboard</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_patient_home_screen">PatientHomeScreen</string>
+    <string name="title_activity_doctor_home_screen">DoctorHomeScreen</string>
+    <string name="title_activity_patient_appoitment">PatientAppoitment</string>
+    <string name="title_activity_patient_view_docs">PatientViewDocs</string>
+    <string name="title_activity_aichatbot">AIChatbot</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="geoapify_api_key">04bebdb108bc4b5d91e2fa1d8271d9f0</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
